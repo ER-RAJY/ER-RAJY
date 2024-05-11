@@ -1,13 +1,13 @@
-# ER-RAJY-NOUREDDINE
+# ER-RAJY-NOUREDDINE 🚀
 
-## About Me
+## About Me 💼
 
 Hello! I'm Noureddine Er-Rajy, a passionate Full Stack Web Developer with experience in building web applications using a variety of technologies. I'm enthusiastic about creating efficient and user-friendly solutions to real-world problems.
 
-- **Email:** noureddineerajy@gmail.com
-- **Phone:** +212 646807084
+- **Email:** noureddineerajy@gmail.com 📧
+- **Phone:** +212 646807084 📱
 
-## Experience
+## Experience 💻
 
 ### Full Stack Web Developer | June 2021 - December 2021
 - Developed an employee management application to assist businesses in managing employee information.
@@ -16,7 +16,7 @@ Hello! I'm Noureddine Er-Rajy, a passionate Full Stack Web Developer with experi
 ### Internship in Web Development | June 2021 - December 2021
 - Worked on various web development projects, honing my skills in HTML, CSS, JavaScript, and more.
 
-## Education
+## Education 🎓
 
 - **Diploma in Digital Development | 2023 - 2024**
   - Ecole Numérique Ahmed Al Hansali
@@ -28,7 +28,7 @@ Hello! I'm Noureddine Er-Rajy, a passionate Full Stack Web Developer with experi
 - **High School Diploma | 2020 - 2021**
   - Lycee El Khawarizmi
 
-## Skills
+## Skills 💡
 
 ### Frontend
 - HTML5
@@ -47,19 +47,19 @@ Hello! I'm Noureddine Er-Rajy, a passionate Full Stack Web Developer with experi
 - UML
 - Agile Methodologies
 
-## Interests
+## Interests 🌟
 
-- Photography
-- Hiking
-- Football
+- Photography 📸
+- Hiking 🥾
+- Football ⚽
 
-## Soft Skills
+## Soft Skills 🤝
 
 - Teamwork
 - Adaptability
 - Flexibility
 
-## Additional Involvement
+## Additional Involvement 🎉
 
 - **Treasurer, Student Government | 2023/2024**
   - BDE Ecole Numérique Ahmed Al Hansali
