@@ -16,15 +16,14 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ER-RAJY
-          outputs: dist/snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push Snake Animation
-        run: |
-          mkdir -p output
-          mv dist/snake.svg output/snake.svg
-
-      - name: Upload to GitHub
-        uses: actions/upload-artifact@v3
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          name: snake-animation
-          path: output/snake.svg
+          branch: main # The branch the action should deploy to.
+          folder: dist # The folder the action should deploy.
+          git-config-name: github-actions[bot]
+          git-config-email: github-actions[bot]@users.noreply.github.com
+
+
