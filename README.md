@@ -87,6 +87,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ER-RAJY/ER-RAJY/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ER-RAJY/ER-RAJY/gh-pages/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 
